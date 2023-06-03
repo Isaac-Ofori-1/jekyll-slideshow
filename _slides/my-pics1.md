@@ -6,9 +6,9 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine](my-pics1/P1.jpg)
+* ![A nice pic of mine](my-pics1/P1.jpeg)
 * ![Another nice pic of mine](my-pics1/P2.jpeg)
-* ![Another nice pic of mine](my-pics1/pp1.jpeg)
+* ![Another nice pic of mine](my-pics1/pp1.jpg)
 * ![Another nice pic of mine](my-pics1/pp2.jpg)
 * ![Another nice pic of mine](my-pics1/pp3.jpg)
 * ![Another nice pic of mine](my-pics1/table1.jpeg)
